@@ -1,0 +1,40 @@
+@font-face {
+    font-family: neon;
+    src: url(../fonts/neon_pixel-7.ttf);
+}
+.neon-text {
+    font-family: neon;
+    color: black;
+
+    font-size: 9rem;
+    text-shadow: 
+    .1vw 0vw .25vw #7d04a1, .2vw 0vw .25vw #7d04a1, .4vw 0vw .25vw #7d04a1, 
+  
+    .1vw 0vw   0vw #9805c5, .2vw 0vw   0vw #9805c5, .4vw 0vw   0vw #9805c5,
+    .1vw 0vw  .1vw #9805c5, .2vw 0vw  .1vw #9805c5, .4vw 0vw  .1vw #9805c5,
+    .1vw 0vw   2vw #9805c5, .2vw 0vw   2vw #9805c5, .4vw 0vw   2vw #9805c5, 
+  
+    .1vw 0vw   1vw #b506eb, .2vw 0vw   1vw #b506eb, .4vw 0vw   5vw #b506eb, 
+    .1vw 0vw   5vw #b506eb, .2vw 0vw  20vw #b506eb, .4vw 0vw  10vw #b506eb,
+    .1vw 0vw  10vw #b506eb, .2vw 0vw  30vw #b506eb, .4vw 0vw  10vw #b506eb;
+}
+.pixel {
+    font-family: neon;
+    color: #7d04a1;
+    font-size: 7rem;
+}
+
+.pixel-dark {
+    font-family: neon;
+    color: #2e013d;
+    font-size: 7rem;
+}
+
+/* .praccy {
+    display: flex;
+}
+.pitem {
+    flex-grow: 1;
+    text-align: center;
+    border: 1px solid black;
+} */
