@@ -114,6 +114,10 @@ h6 {
   }
 }
 
+.genMini {
+  background: url("../img/gengarMini.jpg");
+}
+
 /* Side Menu */
 #sidebar-wrapper {
   position: fixed;
